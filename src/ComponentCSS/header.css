@@ -1,0 +1,30 @@
+#header .title {
+}
+
+#header .content_header {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  color: whitesmoke;
+}
+
+#header p {
+  padding: 10px;
+  display: inline-block;
+  font-size: 24px;
+}
+
+#header .navbar {
+  padding: 10px;
+}
+
+#header ul.list {
+  display: flex;
+  flex-direction: row;
+}
+
+#header ul li {
+  display: inline-block;
+  padding: 8px;
+  font-size: 20px;
+}
